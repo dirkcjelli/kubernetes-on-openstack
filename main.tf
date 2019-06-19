@@ -4,7 +4,6 @@ provider "openstack" {
 }
 
 provider "local" {
-  version = "~> v1.1.0"
 }
 
 resource "openstack_compute_keypair_v2" "basic_keypair" {
