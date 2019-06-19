@@ -9,3 +9,4 @@ variable "username" {
 variable "password" {
   description = "Password for the OpenStack cloud provider users"
 }
+
