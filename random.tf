@@ -9,3 +9,4 @@ resource "random_string" "secondpart" {
   special = false
   upper   = false
 }
+
